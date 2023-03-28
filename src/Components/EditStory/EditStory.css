@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+form{
+    border: 1px solid #000000;
+    border-radius: 30px;
+    margin-top: 50px;
+}
+.logo img{
+    max-width: 100px;
+}
+.bg{
+    background-color: white;
+}
+.detail{
+    position: relative;
+    color: black;
+    text-align: center;
+}
+.detail h1{
+    font-size: 50px;
+}
+.detail button{
+    padding: 5px 20px;
+    background-color: #000000;
+    color: white;
+    border: none;
+}
+textarea{
+    outline: none;
+}

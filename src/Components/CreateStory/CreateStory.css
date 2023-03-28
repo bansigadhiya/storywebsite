@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+form {
+    border: none !important;
+    border-radius: 30px;
+    margin-top: 50px;
+    background: rgb(217, 222, 246) !important;
+    background: linear-gradient(90deg, rgba(217, 222, 246, 1) 0%, rgba(96, 242, 213, 1) 100%) !important;
+}
+
+.logo img {
+    max-width: 100px;
+}
+
+.bg {
+    background-color: white;
+}
+
+.detail {
+    position: relative;
+    color: black;
+    text-align: center;
+}
+
+.detail h1 {
+    font-size: 50px;
+}
+
+.detail button {
+    padding: 5px 20px;
+    background-color: #000000;
+    color: white;
+    border: none;
+}
+
+textarea {
+    outline: none;
+}
+
+.button-bg{
+    /* background: rgb(217, 222, 246) !important;
+    background: linear-gradient(90deg, rgba(217, 222, 246, 1) 0%, rgba(96, 242, 213, 1) 100%) !important; */
+    background-color: #7dcccc !important;
+    color: white !important;
+}
